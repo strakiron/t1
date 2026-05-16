@@ -1,0 +1,13 @@
+#mac_os
+.DS_stories
+
+#windows
+thumbs.db
+
+#jar
+*.jar
+
+
+#text
+[xyz]*.txt
+
